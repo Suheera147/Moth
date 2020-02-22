@@ -1,0 +1,2 @@
+# Moth
+A basic simulation/game using OpenGL library in C language. There is a light source that moves in linear motion and reflects light on an earth plane at the bottom of the screen. The light's direction and intensity is calculated using algebra and vectors using the source's position and distance from the surface plane. If the left mouse button is clicked, an object is formed on the screen that follows the light source. The simulation has three screens which can be traversed by pressing the space-bar.
